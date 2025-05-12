@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>HDrezka</title>
+        <link>https://hdrezka_macos.t.me/</link>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Mon, 12 May 2025 17:58:14 +0300</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka.dmg" length="12987905" type="application/octet-stream" sparkle:edSignature="SfZ1QnM5lb6Yngz2+ehZ9JJa5ycdd4/K9hgnu0FC9PP2IemBQMct9M5BMcmQO0raFuTidW+PbwOri0FJjQveBA=="/>
+        </item>
+    </channel>
+</rss>
