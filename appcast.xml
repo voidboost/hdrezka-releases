@@ -6,6 +6,13 @@
         <item>
             <title>1.0.1</title>
             <pubDate>Wed, 14 May 2025 13:45:05 +0300</pubDate>
+            <description>
+            <![CDATA[
+            <ul>
+                <li>Improved file downloading</li>
+            </ul>
+            ]]>
+            </description>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
