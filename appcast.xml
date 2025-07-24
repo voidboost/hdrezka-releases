@@ -4,17 +4,20 @@
         <title>HDrezka</title>
         <link>https://github.com/voidboost/hdrezka-macos</link>
         <item>
+            <title>1.0.11</title>
+            <pubDate>Thu, 24 Jul 2025 17:41:03 +0300</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka.dmg" length="13890959" type="application/octet-stream" sparkle:edSignature="4LFY/68NsG7T4BWTz7uwv1lt0wvvZn+5z+2Kofk7NSIbzl+HT25AiLLGVt2dljTZ2dj+NV8YSZhY0lNUZ3nlDA=="/>
+        </item>
+        <item>
             <title>1.0.10</title>
             <pubDate>Thu, 05 Jun 2025 22:11:53 +0300</pubDate>
-            <description><![CDATA[
-            <ul>
-                <li>Small important fixes</li>
-            </ul>
-            ]]></description>
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka.dmg" length="12917422" type="application/octet-stream" sparkle:edSignature="k+DNQjNWGArJKzLz870W5ppcUehexVj70ga3LXiwCYfEKLP6DHxvv3CoVFLLeOpRgIAAmeso4/Pd4pIhdyI2Bw=="/>
+            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka_old.dmg" length="12917422" type="application/octet-stream" sparkle:edSignature="k+DNQjNWGArJKzLz870W5ppcUehexVj70ga3LXiwCYfEKLP6DHxvv3CoVFLLeOpRgIAAmeso4/Pd4pIhdyI2Bw=="/>
         </item>
     </channel>
 </rss>
