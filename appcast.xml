@@ -4,12 +4,12 @@
         <title>HDrezka</title>
         <link>https://github.com/voidboost/hdrezka-macos</link>
         <item>
-            <title>1.0.12</title>
-            <pubDate>Wed, 30 Jul 2025 16:29:33 +0300</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+            <title>1.0.13</title>
+            <pubDate>Sat, 09 Aug 2025 18:45:27 +0300</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka.dmg" length="15880056" type="application/octet-stream" sparkle:edSignature="RwLOW1jZFo5CN3qY+0Q1P7ljRebzJQo/M+Sqhw/BO0JIWTosOGADrawauURtWSfHW7nAPGOfXhxdsY9ZxIJSDA=="/>
+            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka%201.0.13.dmg" length="15868688" type="application/octet-stream" sparkle:edSignature="BQ5lkmXDYN78YZuFOTmJoLG4F2YvpdZ4U6P+A21R3VaYksIERSWPKKGovZQ+kDjLJqOdBKuifXr9+y3tQwrKAA=="/>
         </item>
         <item>
             <title>1.0.10</title>
@@ -17,7 +17,7 @@
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka_old.dmg" length="12917422" type="application/octet-stream" sparkle:edSignature="k+DNQjNWGArJKzLz870W5ppcUehexVj70ga3LXiwCYfEKLP6DHxvv3CoVFLLeOpRgIAAmeso4/Pd4pIhdyI2Bw=="/>
+            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka%201.0.10.dmg" length="12917422" type="application/octet-stream" sparkle:edSignature="k+DNQjNWGArJKzLz870W5ppcUehexVj70ga3LXiwCYfEKLP6DHxvv3CoVFLLeOpRgIAAmeso4/Pd4pIhdyI2Bw=="/>
         </item>
     </channel>
 </rss>
