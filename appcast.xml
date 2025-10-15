@@ -9,7 +9,7 @@
             <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka%201.0.19.dmg" length="19028601" type="application/octet-stream" sparkle:edSignature="ttvFXt6Z3fDwzJ560/h7USSFu5dH3cCt+qcNk7Zb8XdNc1FP3S913iy+tBZ9SJNpG8ckjcpS87GF2G6YsIbQCA=="/>
+            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka%201.0.19.dmg" length="19070545" type="application/octet-stream" sparkle:edSignature="Qnq9clAoxtIV6mISOlEtz5LywzJPjrz0ejKES56N5opTZFVoAJBgvVpsvvOAEz84kbOPl3LPx6uewrBbSwxlBA=="/>
         </item>
         <item>
             <title>1.0.10</title>
