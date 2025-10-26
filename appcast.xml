@@ -11,13 +11,5 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka%201.0.22.dmg" length="19951371" type="application/octet-stream" sparkle:edSignature="A1eZ3XKOU1GraqXkZiuQj1S8Hf/WfbFakNAUKv6w09tS1e1x1kqm0F9PpOZSsPTZ6VnE84VcQioGZvnMhaZ3AQ=="/>
         </item>
-        <item>
-            <title>1.0.10</title>
-            <pubDate>Thu, 05 Jun 2025 22:11:53 +0300</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka%201.0.10.dmg" length="12917422" type="application/octet-stream" sparkle:edSignature="k+DNQjNWGArJKzLz870W5ppcUehexVj70ga3LXiwCYfEKLP6DHxvv3CoVFLLeOpRgIAAmeso4/Pd4pIhdyI2Bw=="/>
-        </item>
     </channel>
 </rss>
