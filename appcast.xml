@@ -4,12 +4,12 @@
         <title>HDrezka</title>
         <link>https://github.com/voidboost/hdrezka-macos</link>
         <item>
-            <title>1.0.26</title>
-            <pubDate>Tue, 11 Nov 2025 18:38:17 +0200</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
+            <title>1.0.27</title>
+            <pubDate>Tue, 25 Nov 2025 15:04:38 +0200</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka%201.0.26.dmg" length="20020729" type="application/octet-stream" sparkle:edSignature="6z5wpDGdo7H6ViG4nCX7F97Qf00AOrkQKmP2mXSk9vQaO7CE5447QhEXvX8MIBx7zSx5Z48jNVCvVTvaEJZpBg=="/>
+            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka%201.0.27.dmg" length="20024006" type="application/octet-stream" sparkle:edSignature="eYzJKyww3Oa1N6AZAO2B7Ye2UtdHcITj/sPzSFoaofL/JHT9kcn3URcZGw6po4mfRbRKmJ5eTyKIgBvE1PRoCw=="/>
         </item>
     </channel>
 </rss>
