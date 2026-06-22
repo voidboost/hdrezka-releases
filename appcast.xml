@@ -10,7 +10,7 @@
             <sparkle:shortVersionString>1.0.36</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate sparkle:version="1.0.29"/>
-            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka%201.0.36.dmg" length="21397224" type="application/octet-stream" sparkle:edSignature="iLzMq+w1gFC5iEPaG1LZ3eXL+RONxA7ydkR1bO/mx2PqnlxeVSQizHdYTfGBi9KfNacQXfuXWWi+78D9VnhlCQ=="/>
+            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka.dmg" length="21397224" type="application/octet-stream" sparkle:edSignature="iLzMq+w1gFC5iEPaG1LZ3eXL+RONxA7ydkR1bO/mx2PqnlxeVSQizHdYTfGBi9KfNacQXfuXWWi+78D9VnhlCQ=="/>
         </item>
     </channel>
 </rss>
