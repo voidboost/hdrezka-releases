@@ -2,24 +2,13 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>HDrezka</title>
-        <link>https://github.com/voidboost/hdrezka-macos</link>
         <item>
             <title>1.0.37</title>
-            <pubDate>Tue, 23 Jun 2026 14:17:08 +0000</pubDate>
+            <pubDate>Tue, 23 Jun 2026 14:41:51 +0000</pubDate>
             <sparkle:version>38</sparkle:version>
             <sparkle:shortVersionString>1.0.37</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka.dmg" length="15031248" type="application/octet-stream" sparkle:edSignature="aKYv6aZUqFdkVZKzuSjMtkJEK+HhYZqy08jBMjsl12WUH2Q0euJ94Tq/oWS/tLtbx0aXRQBRegx5fWQDdztcCA=="/>
-        </item>
-        <item>
-            <title>1.0.36</title>
-            <pubDate>Tue, 14 Apr 2026 13:59:50 +0300</pubDate>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>1.0.36</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:criticalUpdate sparkle:version="1.0.29"/>
-            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka.dmg" length="21397224" type="application/octet-stream" sparkle:edSignature="iLzMq+w1gFC5iEPaG1LZ3eXL+RONxA7ydkR1bO/mx2PqnlxeVSQizHdYTfGBi9KfNacQXfuXWWi+78D9VnhlCQ=="/>
+            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka.dmg" length="19103025" type="application/octet-stream" sparkle:edSignature="kgZHY1skQdiWXJrmb3LGw4W6fGeaWHZxSjttjmd3mZtA/tHsV4fuwRYKGC5fyW1C7b7Q7eA1HJxto0mtQ8bTDg=="/>
         </item>
     </channel>
 </rss>
