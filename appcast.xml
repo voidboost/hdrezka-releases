@@ -3,12 +3,12 @@
     <channel>
         <title>HDrezka</title>
         <item>
-            <title>1.0.51</title>
-            <pubDate>Wed, 02 Sep 2026 08:37:04 +0000</pubDate>
-            <sparkle:version>52</sparkle:version>
-            <sparkle:shortVersionString>1.0.51</sparkle:shortVersionString>
+            <title>1.0.52</title>
+            <pubDate>Fri, 04 Sep 2026 17:46:28 +0000</pubDate>
+            <sparkle:version>53</sparkle:version>
+            <sparkle:shortVersionString>1.0.52</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka.dmg" length="24594709" type="application/octet-stream" sparkle:edSignature="/8XDrOMzs7iDjOcpujGpZXpVOufEdJDixd4XBw0DQc45BXD1FLVpQ3ZtUbOUBVlE6hMOqDUpxoZb9F7IdYBVDg=="/>
+            <enclosure url="https://voidboost.github.io/hdrezka-releases/HDrezka.dmg" length="24586217" type="application/octet-stream" sparkle:edSignature="T0OYcQeSOhZVwKBSFa21Kvhey4uzhcGS46QTZWn4r4KKjyg8ccoElhhw25Pgu6YwQN/96b0SzrpRhe9nM7YqCQ=="/>
         </item>
     </channel>
 </rss>
