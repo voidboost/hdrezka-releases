@@ -3,12 +3,12 @@
     <channel>
         <title>HDrezka</title>
         <item>
-            <title>1.0.75</title>
-            <pubDate>Sun, 01 Nov 2026 11:07:02 +0000</pubDate>
-            <sparkle:version>76</sparkle:version>
-            <sparkle:shortVersionString>1.0.75</sparkle:shortVersionString>
+            <title>1.0.76</title>
+            <pubDate>Sun, 01 Nov 2026 12:28:32 +0000</pubDate>
+            <sparkle:version>77</sparkle:version>
+            <sparkle:shortVersionString>1.0.76</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/voidboost/hdrezka-swiftui/releases/download/1.0.75/HDrezka.dmg" length="25433669" type="application/octet-stream" sparkle:edSignature="2/D+PCLI/jo++SuZNqNMjh5DNFH8csf4oVMQcH8H39w+YYqC1ZN4DEHY0/4fOH04xDCJjRu4Xqb60cx9S6OkDg=="/>
+            <enclosure url="https://github.com/voidboost/hdrezka-swiftui/releases/download/1.0.76/HDrezka.dmg" length="25441541" type="application/octet-stream" sparkle:edSignature="vYSJvTEDEPyL2sgdfcFbSlPW4Dz6lcu31UvODM8dSXpfrTAeQBMZfhdjf7eaaUm/earhFjtnCo3GQX25B9sEBw=="/>
         </item>
     </channel>
 </rss>
